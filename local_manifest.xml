@@ -10,5 +10,6 @@
   <project path="kernel/xiaomi/rock" name="kernel_xiaomi_rock" remote="rock" revision="14.0"/>
   <project path="hardware/mediatek" name="hardware_mediatek" remote="rock" revision="14.0"/>
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="rock" revision="14.0"/>
+  <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="rock" revision="14.0"/>
   
 </manifest>
